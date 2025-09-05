@@ -1,3 +1,3 @@
 module github.com/drerr0r/Hello-world
 
-go 1.24.1
+go 1.23
